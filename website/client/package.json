@@ -41,7 +41,7 @@
     "sass": "^1.63.4",
     "sass-loader": "^8.0.2",
     "smartbanner.js": "^1.19.3",
-    "stopword": "^2.0.8",
+    "stopword": "^3.0.1",
     "uuid": "^9.0.1",
     "validator": "^13.9.0",
     "vue": "^2.7.10",
