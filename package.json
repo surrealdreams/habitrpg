@@ -64,7 +64,7 @@
     "rate-limiter-flexible": "^2.4.2",
     "redis": "^3.1.2",
     "remove-markdown": "^0.5.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^5.0.5",
     "short-uuid": "^4.2.2",
     "stripe": "^12.18.0",
     "superagent": "^8.1.2",
