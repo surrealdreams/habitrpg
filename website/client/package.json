@@ -42,7 +42,7 @@
     "sass-loader": "^8.0.2",
     "smartbanner.js": "^1.19.3",
     "stopword": "^2.0.8",
-    "uuid": "^9.0.1",
+    "uuid": "^10.0.0",
     "validator": "^13.9.0",
     "vue": "^2.7.10",
     "vue-fragment": "^1.6.0",
